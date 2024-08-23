@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Education
-Computer Information System (Honors)
+Computer Information System (Honors), University of Windsor, ON, CANADA
 
 ### Certification
 - Google Professional Data Analyst
