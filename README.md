@@ -4,11 +4,11 @@
 Computer Information System (Honors)
 
 ### Certification
-- Google Professional Data Analyst
-- CCNA
-- Security+
-- Network+
-- A+
+-Google Professional Data Analyst
+-CCNA
+-Security+
+-Network+
+-A+
 
 ### Data Analyst Case Study
 ## Atliq Hardware
