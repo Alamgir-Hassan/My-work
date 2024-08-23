@@ -13,12 +13,16 @@ Computer Information System (Honors)
 ### Data Analyst Case Study
 ## Atliq Hardware
 ![EEG_Band_Discovery](/Picture/Atliq_Hardware.png)
+[Publication](/Atliq Hardware.docx)
 ## CoffeeShop
   ![EEG_Band_Discovery](/Picture/Coffee_Shop.png)
+  
 ## Electric Vehicle
   ![EEG_Band_Discovery](/Picture/EV_Vehicle.png)
+  
 ## HR Interactive Dashboard
   ![EEG_Band_Discovery](/Picture/HR_Dashboard.png)
+  
 ## Toman Bike Share
 - ![EEG_Band_Discovery](/Picture/Bike_Share.png)
 
