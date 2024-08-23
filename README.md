@@ -11,6 +11,7 @@ Computer Information System (Honors)
 - A+
 
 ### Data Analyst Case Study
+---
 ## Atliq Hardware
 ![EEG_Band_Discovery](/Picture/Atliq_Hardware.png)
 - [Atliq Case Study](/AtliqHardware.docx)
