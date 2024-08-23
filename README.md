@@ -13,7 +13,7 @@ Computer Information System (Honors)
 ### Data Analyst Case Study
 ## Atliq Hardware
 ![EEG_Band_Discovery](/Picture/Atliq_Hardware.png)
-- [Atliq Case Study](/AtliqHardware.docx)
+- #### [Atliq Case Study](/AtliqHardware.docx)
  
 ## CoffeeShop
   ![EEG_Band_Discovery](/Picture/Coffee_Shop.png)
