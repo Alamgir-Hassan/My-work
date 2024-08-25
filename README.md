@@ -32,6 +32,6 @@ Computer Information System (Honors), University of Windsor, ON, CANADA
   ![EEG_Band_Discovery](/Picture/Bike_Share.png)
   - [Bike Share Case Study](/TomanBikeShare.docx)
     
-### Work Experience
+### SQL Project 
 
 
