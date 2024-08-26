@@ -4,7 +4,7 @@
 Computer Information System (Honors), University of Windsor, ON, CANADA
 
 ### Certification
-- Google Certified Professional Data Analyst
+- Google Data Analyst Profession Certificate
 - CCNA
 - Security+
 - Network+
