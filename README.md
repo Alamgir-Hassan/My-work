@@ -59,5 +59,5 @@ Eager to apply my data analysis skills in a dynamic environment to contribute to
   - [Bike Share Case Study](/TomanBikeShare.docx)
     
 ### SQL Project 
-  - [Taste Of The World Café](/Taste Of The World Café.docx)
+  - [Taste Of The World Café](/TasteOfTheWorldCafé.docx)
 
