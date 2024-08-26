@@ -10,6 +10,32 @@ Computer Information System (Honors), University of Windsor, ON, CANADA
 - Network+
 - A+
 
+### Summary
+Versatile induvial with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Exceptional understanding and proficiency of platforms for effective data analysed, including SQL, spreadsheet, Excel, Tableau, Power BI and R. Strong communication, organizational, and analytical skills. Recently completed the   Google Professional Data Analytics Certificate.
+
+### Objective
+Eager to apply my data analysis skills in a dynamic environment to contribute to data-driven decision-making processes and eager to develop further in data analytics.
+
+### Skills
+- Sata analysis
+- Data cleaning
+- Data visualization
+- R programming
+- Data driven decision making.
+- Calculations and analysis in SQL and Power Query
+- Effective presentation
+### Strength
+- Analytical thinking
+- Effective communication
+- Collaborator
+- problem solving skills
+
+### Passions
+ #### Data Driven Storytelling
+      Passionate about transforming data into compelling stories that drive decision making and strategy.
+#### Continuous Learning
+     Committed to continually enhancing my data analysis skills through coursed, workshops, and self-study,
+
 ### Data Analyst Case Study
 ---
 ## Atliq Hardware
