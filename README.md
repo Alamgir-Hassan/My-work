@@ -2,6 +2,7 @@
 
 ### Education
 Computer Information System (Honors), University of Windsor, ON, CANADA
+Bachelor of Architecture, BUET, Bangladesh.
 
 ### Certification
 - Google Data Analyst Profession Certificate
