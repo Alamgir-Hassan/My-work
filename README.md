@@ -33,8 +33,8 @@ Eager to apply my data analysis skills in a dynamic environment to contribute to
 ### Passions
  #### Data Driven Storytelling
       Passionate about transforming data into compelling stories that drive decision making and strategy.
-#### Continuous Learning
-     Committed to continually enhancing my data analysis skills through coursed, workshops, and self-study,
+ #### Continuous Learning
+      Committed to continually enhancing my data analysis skills through coursed, workshops, and self-study,
 
 ### Data Analyst Case Study
 ---
