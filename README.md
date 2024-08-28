@@ -46,24 +46,24 @@ Committed to continually enhancing my data analysis skills through coursed, work
 ---
 ## Atliq Hardware
 ![EEG_Band_Discovery](/Picture/Atliq_Hardware.png)
-- [Atliq Case Study](/AtliqHardware.docx)
+- [Atliq Case Study](/Resume/AtliqHardware.docx)
  
 ## CoffeeShop
 ![EEG_Band_Discovery](/Picture/Coffee_Shop.png)
-- [Coffee Shop Case Study](/CoffeeShop.docx)
+- [Coffee Shop Case Study](/Resum/CoffeeShop.docx)
    
 ## Electric Vehicle
 ![EEG_Band_Discovery](/Picture/EV_Vehicle.png)
-- [Electric Vehicle Case Study](/ElectricVehicle.docx)
+- [Electric Vehicle Case Study](/Resum/ElectricVehicle.docx)
      
 ## HR Interactive Dashboard
 ![EEG_Band_Discovery](/Picture/HR_Dashboard.png)
-- [HR Attrion Case Study](/HRdashboard.docx)
+- [HR Attrion Case Study](/Resum/HRdashboard.docx)
     
 ## Toman Bike Share
   ![EEG_Band_Discovery](/Picture/Bike_Share.png)
-  - [Bike Share Case Study](/TomanBikeShare.docx)
+  - [Bike Share Case Study](/Resum/TomanBikeShare.docx)
     
 ### SQL Project 
-  - [Taste Of The World Café](/TasteOfTheWorldCafé.docx)
+  - [Taste Of The World Café](/Resum/TasteOfTheWorldCafé.docx)
 
