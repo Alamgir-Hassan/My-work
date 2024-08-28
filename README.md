@@ -5,7 +5,7 @@
 - Bachelor of Architecture, BUET, Bangladesh.
 
 ### Certification
-- Google Data Analyst Profession Certificate
+- Google Data Analyst Professional Certificate
 - CCNA
 - Security+
 - Network+
