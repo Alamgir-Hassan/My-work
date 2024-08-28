@@ -25,6 +25,7 @@ Eager to apply my data analysis skills in a dynamic environment to contribute to
 - Data driven decision making.
 - Calculations and analysis in SQL and Power Query
 - Effective presentation
+  
 ### Strength
 - Analytical thinking
 - Effective communication
@@ -32,6 +33,7 @@ Eager to apply my data analysis skills in a dynamic environment to contribute to
 - problem solving skills
 
 ### Passions
+
  #### Data Driven Storytelling
       Passionate about transforming data into compelling stories that drive decision making and strategy.
  #### Continuous Learning
