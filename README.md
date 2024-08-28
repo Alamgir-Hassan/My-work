@@ -65,5 +65,5 @@ Committed to continually enhancing my data analysis skills through coursed, work
   - [Bike Share Case Study](/CaseStudy/TomanBikeShare.docx)
     
 ### SQL Project 
-  - [Taste Of The World Café](/CaseStudy/TasteOfTheWorldCafé(1).docx)
+  - [Taste Of The World Café](/CaseStudy/TasteOfTheWorldCafé.docx)
 
