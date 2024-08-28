@@ -1,5 +1,7 @@
 title: Abu Md Alamgir Hassan
 logo: /Picture/Abu_Hassan.png
 description: Data Analyst
+navbar-links:
+About Me: "Resume"
 show_download: true
 theme: jekyll-theme-minimal
