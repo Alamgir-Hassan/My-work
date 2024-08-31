@@ -12,7 +12,7 @@
 - A+
 
 ### Summary
-Versatile induvial with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Exceptional understanding and proficiency of platforms for effective data analysed, including SQL, spreadsheet, Excel, Tableau, Power BI and R. Strong communication, organizational, and analytical skills. Recently completed the   Google Professional Data Analytics Certificate.
+Versatile induvial with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Exceptional understanding and proficiency of platforms for effective data analysed, including SQL, spreadsheet, Excel, Tableau, Python, Jupyter Notebook, Power BI and R. Strong communication, organizational, and analytical skills. Recently completed the   Google Professional Data Analytics Certificate.
 
 ### Objective
 Eager to apply my data analysis skills in a dynamic environment to contribute to data-driven decision-making processes and eager to develop further in data analytics.
@@ -66,4 +66,7 @@ Committed to continually enhancing my data analysis skills through coursed, work
     
 ### SQL Project 
   - [Taste Of The World Café](/CaseStudy/TasteOfTheWorldCafé.docx)
+
+### Python Project
+  - [Sales Analysis]()
 
