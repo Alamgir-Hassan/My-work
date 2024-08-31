@@ -68,5 +68,5 @@ Committed to continually enhancing my data analysis skills through coursed, work
   - [Taste Of The World Café](/CaseStudy/TasteOfTheWorldCafé.docx)
 
 ### Python Project
-  - [Sales Analysis]()
+  - [Sales Analysis](/CaseStudy/Sales_Analysis.ipynb)
 
