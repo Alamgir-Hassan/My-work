@@ -48,7 +48,7 @@ Committed to continually enhancing my data analysis skills through coursed, work
 ![EEG_Band_Discovery](/Picture/Atliq_Hardware.png)
 - [Atliq Case Study](/CaseStudy/AtliqHardware.docx)
  
-## CoffeeShop
+## Coffee Shop
 ![EEG_Band_Discovery](/Picture/Coffee_Shop.png)
 - [Coffee Shop Case Study](/CaseStudy/CoffeeShop.docx)
    
