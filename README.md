@@ -18,10 +18,12 @@ Versatile induvial with experience collecting, transforming, and organizing data
 Eager to apply my data analysis skills in a dynamic environment to contribute to data-driven decision-making processes and eager to develop further in data analytics.
 
 ### Skills
-- Sata analysis
+- Data analysis
 - Data cleaning
-- Data visualization
+- Data visualization (Power BI & Tablue)
 - R programming
+- Python
+- Jupyter Notebook
 - Data driven decision making.
 - Calculations and analysis in SQL and Power Query
 - Effective presentation
