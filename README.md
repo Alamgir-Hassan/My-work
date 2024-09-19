@@ -54,12 +54,12 @@ Committed to continually enhancing my data analysis skills through coursed, work
 ## Coffee Shop
 ![EEG_Band_Discovery](/Picture/Coffee_Shop.png)
 - [Coffee Shop Case Study ](/CaseStudy/CoffeeShop.docx)
-- [Coffee Shop Visualization ](/CaseStudy/Coffee Shop Sales Visualization.pbix)
+- [Coffee Shop Visualization ](/CaseStudy/Coffee_Shop_Sales_Visualization.pbix)
    
 ## Electric Vehicle
 ![EEG_Band_Discovery](/Picture/EV_Vehicle.png)
 - [Electric Vehicle Case Study](/CaseStudy/ElectricVehicle.docx)
-- [Electric Vehicle Visualization](/CaseStudy/EV Car Analysis Visualization.pbix)
+- [Electric Vehicle Visualization](/CaseStudy/EV_Car_Analysis_Visualization.pbix)
      
 ## HR Interactive Dashboard
 ![EEG_Band_Discovery](/Picture/HR_Dashboard.png)
@@ -69,7 +69,7 @@ Committed to continually enhancing my data analysis skills through coursed, work
 ## Toman Bike Share
   ![EEG_Band_Discovery](/Picture/Bike_Share.png)
   - [Bike Share Case Study](/CaseStudy/TomanBikeShare.docx)
-  - [Bike Share Visualization](/CaseStudy/Bike Share Visualization.pbix)
+  - [Bike Share Visualization](/CaseStudy/Bike_Share_Visualization.pbix)
     
 ### SQL Project 
   - [Taste Of The World Café](/CaseStudy/TasteOfTheWorldCafé.docx)
